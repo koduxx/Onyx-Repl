@@ -1,0 +1,2 @@
+language = "nodejs"
+run = "node Server.js ; node port.js"
